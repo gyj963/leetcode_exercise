@@ -15,7 +15,7 @@
 1, 2
 
 ### 题目：
-<a href="https://oj.leetcode.com/problems/two-sum/">点这里</a>
+<a href="https://oj.leetcode.com/problems/two-sum/" target="_blank">点这里</a>
 
 ### 代码：
 <a href="./Two_Sum.cpp">点这里</a>

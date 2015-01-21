@@ -21,7 +21,7 @@ C++好久不写都快忘完了...
 </tr>
 <tr>
 	<td><a href="https://oj.leetcode.com/problems/two-sum/">1</a></td>
-	<td><a href="./src/Reverse_Words_in_a_String/README.md">Two Sum</a></td>
+	<td><a href="./src/Two_Sum/README.md">Two Sum</a></td>
 	<td>Medium</td>
 </tr>
 </table>
