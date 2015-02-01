@@ -35,6 +35,24 @@ public:
                 }
             }
         }
+
         return maxlen;
     }
 };
+int main() {
+    string s = "abcabcbb";
+    //3
+//    string s = "bbbbb";
+//    //1
+//    string s = "c";
+//    //1
+//    string s = "aa";
+//    //1
+//    string s = "";
+//    //0
+//    string s = "au";
+//    //2
+    int res = Solution().lengthOfLongestSubstring(s);
+    cout<<res;
+}
+
