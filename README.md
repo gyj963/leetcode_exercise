@@ -6,7 +6,7 @@ C++好久不写都快忘完了...
 
 以下进度表格，按做题先后顺序更新。
 
-**进度**：3/175
+**进度**：4/175
 
 <table>
 <tr>
@@ -28,5 +28,10 @@ C++好久不写都快忘完了...
 	<td><a href="https://oj.leetcode.com/problems/median-of-two-sorted-arrays/" target="_blank">4</a></td>
 	<td><a href="./src/Median_of_Two_Sorted_Arrays/README.md">Median of Two Sorted Arrays</a></td>
 	<td>Hard</td>
+</tr>
+<tr>
+	<td><a href="https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">3</a></td>
+	<td><a href="./src/Longest_Substring_Without_Repeating_Characters/README.md">Longest Substring Without Repeating Characters</a></td>
+	<td>Medium</td>
 </tr>
 </table>
