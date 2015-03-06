@@ -1,12 +1,10 @@
 #	我的LeetCode练习
 ---
-刚刚开始做题，希望自己能坚持下来~
-
-C++好久不写都快忘完了...
+记录了做过LeetCode的题的题意、思路、AC代码
 
 以下进度表格，按做题先后顺序更新。
 
-**进度**：4/175
+**进度**：5/175
 
 <table>
 <tr>
@@ -33,5 +31,10 @@ C++好久不写都快忘完了...
 	<td><a href="https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">3</a></td>
 	<td><a href="./src/Longest_Substring_Without_Repeating_Characters/README.md">Longest Substring Without Repeating Characters</a></td>
 	<td>Medium</td>
+</tr>
+<tr>
+	<td><a href="https://oj.leetcode.com/problems/zigzag-conversion/" target="_blank">6</a></td>
+	<td><a href="./src/zigzag_conversion/README.md">ZigZag Conversion</a></td>
+	<td>Easy</td>
 </tr>
 </table>
