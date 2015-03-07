@@ -4,7 +4,7 @@
 
 以下进度表格，按做题先后顺序更新。
 
-**进度**：5/175
+**进度**：6/175
 
 <table>
 <tr>
@@ -35,6 +35,11 @@
 <tr>
 	<td><a href="https://oj.leetcode.com/problems/zigzag-conversion/" target="_blank">6</a></td>
 	<td><a href="./src/zigzag_conversion/README.md">ZigZag Conversion</a></td>
+	<td>Easy</td>
+</tr>
+<tr>
+	<td><a href="https://oj.leetcode.com/problems/reverse-integer/" target="_blank">7</a></td>
+	<td><a href="./src/reverse_integer/README.md">Reverse Integer</a></td>
 	<td>Easy</td>
 </tr>
 </table>
