@@ -42,4 +42,9 @@
 	<td><a href="./src/reverse_integer/README.md">Reverse Integer</a></td>
 	<td>Easy</td>
 </tr>
+<tr>
+	<td><a href="https://leetcode.com/problems/string-to-integer-atoi/" target="_blank">8</a></td>
+	<td><a href="./src/string_to_integer_atoi/README.md">String to Integer (atoi) </a></td>
+	<td>Easy</td>
+</tr>
 </table>
