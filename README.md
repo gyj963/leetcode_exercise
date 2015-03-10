@@ -4,7 +4,7 @@
 
 以下进度表格，按做题先后顺序更新。
 
-**进度**：7/175
+**进度**：8/175
 
 <table>
 <tr>
@@ -45,6 +45,11 @@
 <tr>
 	<td><a href="https://leetcode.com/problems/string-to-integer-atoi/" target="_blank">8</a></td>
 	<td><a href="./src/string_to_integer_atoi/README.md">String to Integer (atoi) </a></td>
+	<td>Easy</td>
+</tr>
+<tr>
+	<td><a href="https://leetcode.com/problems/palindrome-number/" target="_blank">9</a></td>
+	<td><a href="./src/palindrome_number/README.md">Palindrome Number</a></td>
 	<td>Easy</td>
 </tr>
 </table>
