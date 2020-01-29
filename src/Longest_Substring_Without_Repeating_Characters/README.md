@@ -39,7 +39,7 @@ dp+hash优化。
 
 
 ### 题目：
-<a href="https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">点这里</a>
+<a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">点这里</a>
 
 ### 代码：
 <a href="./Longest_Substring_Without_Repeating_Characters.cpp">点这里</a>

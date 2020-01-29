@@ -27,7 +27,7 @@ x = -123
 注意溢出。比如1000000003翻转后会溢出，如果溢出输出0。 
 
 ### 题目：
-<a href="https://oj.leetcode.com/problems/reverse-integer/" target="_blank">点这里</a>
+<a href="https://leetcode.com/problems/reverse-integer/" target="_blank">点这里</a>
 
 ### 代码：
 <a href="./reverse_integer.cpp">点这里</a>

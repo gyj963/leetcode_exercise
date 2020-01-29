@@ -18,7 +18,7 @@ s = " the sky is blue "
 简单的字符串的处理，注意空串的返回值就好..
 
 ###	题目：
-<a href="https://oj.leetcode.com/problems/reverse-words-in-a-string/" target="_blank">点这里</a>
+<a href="https://leetcode.com/problems/reverse-words-in-a-string/" target="_blank">点这里</a>
 
 ### 代码：
 <a href="./Reverse_Words_in_a_String.cpp">点这里</a>

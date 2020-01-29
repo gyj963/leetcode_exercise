@@ -30,7 +30,7 @@
 
 
 ###	题目：
-<a href="https://oj.leetcode.com/problems/median-of-two-sorted-arrays/" target="_blank">点这里</a>
+<a href="https://leetcode.com/problems/median-of-two-sorted-arrays/" target="_blank">点这里</a>
 
 ### 代码：
 <a href="./Median_of_Two_Sorted_Arrays.cpp">点这里</a>

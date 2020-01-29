@@ -140,7 +140,7 @@ convert("PAYPALISHIRING", 3)
 "PAHNAPLSIIGYIR"
 
 ### 题目：
-<a href="https://oj.leetcode.com/problems/zigzag-conversion/" target="_blank">点这里</a>
+<a href="https://leetcode.com/problems/zigzag-conversion/" target="_blank">点这里</a>
 
 ### 代码：
 <a href="./zigzag_conversion.cpp">点这里</a>
