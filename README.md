@@ -2,6 +2,8 @@
 ---
 记录了做过LeetCode的题的题意、思路、AC代码
 
+题目总数：10
+
 <table>
 <tr>
 	<th>#</th>
@@ -65,6 +67,13 @@
 	<td>Easy</td>
 	<td>C++</td>
 	<td>2015</td>
+</tr>
+<tr>
+	<td><a href="https://leetcode.com/problems/unique-binary-search-trees/" target="_blank">96</a></td>
+	<td><a href="./src/Unique_Binary_Search_Trees/README.md">Unique Binary Search Trees</a></td>
+	<td>Medium</td>
+	<td>JavaScript</td>
+	<td>2020/01/29</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/reverse-words-in-a-string/" target="_blank">151</a></td>
