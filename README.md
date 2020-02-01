@@ -76,6 +76,13 @@
 	<td>2020/01/29</td>
 </tr>
 <tr>
+	<td><a href="https://leetcode.com/problems/longest-consecutive-sequence/" target="_blank">128</a></td>
+	<td><a href="./src/Unique_Binary_Search_Trees/README.md">Longest Consecutive Sequence</a></td>
+	<td>Hard</td>
+	<td>JavaScript</td>
+	<td>2020/01/31</td>
+</tr>
+<tr>
 	<td><a href="https://leetcode.com/problems/reverse-words-in-a-string/" target="_blank">151</a></td>
 	<td><a href="./src/Reverse_Words_in_a_String/README.md">Reverse Words in a String</a></td>
 	<td>Medium</td>
