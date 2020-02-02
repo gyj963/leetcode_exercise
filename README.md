@@ -2,7 +2,8 @@
 ---
 记录了做过LeetCode的题的题意、思路、AC代码
 
-题目总数：10
+题目总数：13
+Top 100 Liked Questions: 8/100
 
 <table>
 <tr>
@@ -11,6 +12,7 @@
 	<th>Difficulty</th>
 	<th>Language</th>
 	<th>Time</th>
+	<th>Tag</th>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/two-sum/" target="_blank">1</a></td>
@@ -18,6 +20,7 @@
 	<td>Medium</td>
 	<td>C++</td>
 	<td>2015</td>
+	<td>Top 100 Liked Questions</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/add-two-numbers/" target="_blank">2</a></td>
@@ -25,6 +28,7 @@
 	<td>Medium</td>
 	<td>JavaScript</td>
 	<td>2020/01/29</td>
+	<td>Top 100 Liked Questions</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">3</a></td>
@@ -32,6 +36,7 @@
 	<td>Medium</td>
 	<td>C++</td>
 	<td>2015</td>
+	<td>Top 100 Liked Questions</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/" target="_blank">4</a></td>
@@ -39,6 +44,15 @@
 	<td>Hard</td>
 	<td>C++</td>
 	<td>2015</td>
+	<td>Top 100 Liked Questions</td>
+</tr>
+<tr>
+	<td><a href="https://leetcode.com/problems/longest-palindromic-substring/" target="_blank">5</a></td>
+	<td><a href="./src/Longest_Palindromic_Substring/README.md">Longest Palindromic Substring</a></td>
+	<td>Medium</td>
+	<td>JavaScript</td>
+	<td>2020/02/02</td>
+	<td>Top 100 Liked Questions</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/zigzag-conversion/" target="_blank">6</a></td>
@@ -46,6 +60,7 @@
 	<td>Easy</td>
 	<td>C++</td>
 	<td>2015</td>
+	<td></td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/reverse-integer/" target="_blank">7</a></td>
@@ -53,6 +68,7 @@
 	<td>Easy</td>
 	<td>C++</td>
 	<td>2015</td>
+	<td></td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/string-to-integer-atoi/" target="_blank">8</a></td>
@@ -60,6 +76,7 @@
 	<td>Easy</td>
 	<td>C++</td>
 	<td>2015</td>
+	<td></td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/palindrome-number/" target="_blank">9</a></td>
@@ -67,6 +84,7 @@
 	<td>Easy</td>
 	<td>C++</td>
 	<td>2015</td>
+	<td></td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/3sum/" target="_blank">15</a></td>
@@ -74,6 +92,7 @@
 	<td>Medium</td>
 	<td>JavaScript</td>
 	<td>2020/02/01</td>
+	<td>Top 100 Liked Questions</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/unique-binary-search-trees/" target="_blank">96</a></td>
@@ -81,6 +100,7 @@
 	<td>Medium</td>
 	<td>JavaScript</td>
 	<td>2020/01/29</td>
+	<td>Top 100 Liked Questions</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/longest-consecutive-sequence/" target="_blank">128</a></td>
@@ -88,6 +108,7 @@
 	<td>Hard</td>
 	<td>JavaScript</td>
 	<td>2020/01/31</td>
+	<td>Top 100 Liked Questions</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/reverse-words-in-a-string/" target="_blank">151</a></td>
@@ -95,5 +116,6 @@
 	<td>Medium</td>
 	<td>C++</td>
 	<td>2015</td>
+	<td></td>
 </tr>
 </table>
