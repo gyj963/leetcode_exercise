@@ -20,7 +20,9 @@ Top 100 Liked Questions: 8/100
 	<td>Medium</td>
 	<td>C++</td>
 	<td>2015</td>
-	<td>Top 100 Liked Questions</td>
+	<td>
+		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
+	</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/add-two-numbers/" target="_blank">2</a></td>
@@ -28,7 +30,9 @@ Top 100 Liked Questions: 8/100
 	<td>Medium</td>
 	<td>JavaScript</td>
 	<td>2020/01/29</td>
-	<td>Top 100 Liked Questions</td>
+	<td>
+		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
+	</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">3</a></td>
@@ -36,7 +40,9 @@ Top 100 Liked Questions: 8/100
 	<td>Medium</td>
 	<td>C++</td>
 	<td>2015</td>
-	<td>Top 100 Liked Questions</td>
+	<td>
+		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
+	</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/" target="_blank">4</a></td>
@@ -44,7 +50,9 @@ Top 100 Liked Questions: 8/100
 	<td>Hard</td>
 	<td>C++</td>
 	<td>2015</td>
-	<td>Top 100 Liked Questions</td>
+	<td>
+		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
+	</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/longest-palindromic-substring/" target="_blank">5</a></td>
@@ -52,7 +60,9 @@ Top 100 Liked Questions: 8/100
 	<td>Medium</td>
 	<td>JavaScript</td>
 	<td>2020/02/02</td>
-	<td>Top 100 Liked Questions</td>
+	<td>
+		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
+	</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/zigzag-conversion/" target="_blank">6</a></td>
@@ -92,7 +102,9 @@ Top 100 Liked Questions: 8/100
 	<td>Medium</td>
 	<td>JavaScript</td>
 	<td>2020/02/01</td>
-	<td>Top 100 Liked Questions</td>
+	<td>
+		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
+	</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/unique-binary-search-trees/" target="_blank">96</a></td>
@@ -100,7 +112,9 @@ Top 100 Liked Questions: 8/100
 	<td>Medium</td>
 	<td>JavaScript</td>
 	<td>2020/01/29</td>
-	<td>Top 100 Liked Questions</td>
+	<td>
+		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
+	</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/longest-consecutive-sequence/" target="_blank">128</a></td>
@@ -108,7 +122,9 @@ Top 100 Liked Questions: 8/100
 	<td>Hard</td>
 	<td>JavaScript</td>
 	<td>2020/01/31</td>
-	<td>Top 100 Liked Questions</td>
+	<td>
+		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
+	</td>
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/reverse-words-in-a-string/" target="_blank">151</a></td>
