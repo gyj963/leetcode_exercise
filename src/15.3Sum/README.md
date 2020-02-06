@@ -28,3 +28,6 @@ A solution set is:
 
 ### 代码：
 <a href="./3Sum.js">点这里</a>
+
+### 思路:
+<a href="./tips.md">点这里</a>

@@ -19,3 +19,6 @@ Output: "bb"
 
 ### 代码：
 <a href="./Longest_Palindromic_Substring.js">点这里</a>
+
+### 思路:
+<a href="./tips.md">点这里</a>

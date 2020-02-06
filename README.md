@@ -66,7 +66,7 @@ Top 100 Liked Questions: 8/100
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/zigzag-conversion/" target="_blank">6</a></td>
-	<td><a href="./src/zigzag_conversion/README.md">ZigZag Conversion</a></td>
+	<td><a href="./src/Zigzag_Conversion/README.md">ZigZag Conversion</a></td>
 	<td>Easy</td>
 	<td>C++</td>
 	<td>2015</td>
@@ -74,7 +74,7 @@ Top 100 Liked Questions: 8/100
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/reverse-integer/" target="_blank">7</a></td>
-	<td><a href="./src/reverse_integer/README.md">Reverse Integer</a></td>
+	<td><a href="./src/Reverse_Integer/README.md">Reverse Integer</a></td>
 	<td>Easy</td>
 	<td>C++</td>
 	<td>2015</td>
@@ -82,7 +82,7 @@ Top 100 Liked Questions: 8/100
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/string-to-integer-atoi/" target="_blank">8</a></td>
-	<td><a href="./src/string_to_integer_atoi/README.md">String to Integer (atoi) </a></td>
+	<td><a href="./src/String_to_Integer/README.md">String to Integer (atoi) </a></td>
 	<td>Easy</td>
 	<td>C++</td>
 	<td>2015</td>
@@ -90,7 +90,7 @@ Top 100 Liked Questions: 8/100
 </tr>
 <tr>
 	<td><a href="https://leetcode.com/problems/palindrome-number/" target="_blank">9</a></td>
-	<td><a href="./src/palindrome_number/README.md">Palindrome Number</a></td>
+	<td><a href="./src/Palindrome_Number/README.md">Palindrome Number</a></td>
 	<td>Easy</td>
 	<td>C++</td>
 	<td>2015</td>
@@ -102,6 +102,16 @@ Top 100 Liked Questions: 8/100
 	<td>Medium</td>
 	<td>JavaScript</td>
 	<td>2020/02/01</td>
+	<td>
+		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
+	</td>
+</tr>
+<tr>
+	<td><a href="https://leetcode.com/problems/first-missing-positive/" target="_blank">41</a></td>
+	<td><a href="./src/First_Missing_Positive/README.md">First Missing Positive</a></td>
+	<td>Hard</td>
+	<td>JavaScript</td>
+	<td>2020/02/04</td>
 	<td>
 		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
 	</td>

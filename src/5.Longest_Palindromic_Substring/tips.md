@@ -36,6 +36,8 @@ P[i]在经过以上处理之后，得到了一个以i下标字符为中心的回
 最后找到P中记录的数字的最大值maxLen，及对应的下标maxLenIndex
 在s中左边界下标为Math.floor((maxLenIndex-maxLen)/2)，由此可得最长回文子串
 
+
+ps:下标、T、P关系为
 下标为i
 i  0 1 2 3 4 5 6 7 8 9 10 11 12
 T  ^ # b # a # b # a # d  #  $ 
