@@ -149,7 +149,9 @@ Top 100 Liked Questions: 10/100
 	<td><a href="./src/322.Coin_Change/README.md">Coin Change</a></td>
 	<td>Medium</td>
 	<td>JavaScript</td>
-	<td>2015</td>
 	<td>2020/02/09</td>
+	<td>
+		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
+	</td>
 </tr>
 </table>
