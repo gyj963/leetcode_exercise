@@ -2,8 +2,8 @@
 ---
 记录了做过LeetCode的题的题意、思路、AC代码
 
-题目总数：13
-Top 100 Liked Questions: 8/100
+题目总数：15
+Top 100 Liked Questions: 10/100
 
 <table>
 <tr>
@@ -143,5 +143,13 @@ Top 100 Liked Questions: 8/100
 	<td>C++</td>
 	<td>2015</td>
 	<td></td>
+</tr>
+<tr>
+	<td><a href="https://leetcode.com/problems/coin-change/" target="_blank">322</a></td>
+	<td><a href="./src/322.Coin_Change/README.md">Coin Change</a></td>
+	<td>Medium</td>
+	<td>JavaScript</td>
+	<td>2015</td>
+	<td>2020/02/09</td>
 </tr>
 </table>
