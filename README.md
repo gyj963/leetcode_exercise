@@ -154,4 +154,14 @@ Top 100 Liked Questions: 10/100
 		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
 	</td>
 </tr>
+<tr>
+	<td><a href="https://leetcode.com/problems/counting-bits/" target="_blank">338</a></td>
+	<td><a href="./src/338.Counting_Bits/README.md">Counting_Bits</a></td>
+	<td>Medium</td>
+	<td>JavaScript</td>
+	<td>2020/02/27</td>
+	<td>
+		<a href="https://leetcode.com/problemset/top-100-liked-questions/" target="view_frame">Top 100 Liked Questions</a>
+	</td>
+</tr>
 </table>

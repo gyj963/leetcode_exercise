@@ -1,5 +1,5 @@
 #	Longest Palindromic Substring
----
+
 
 ### 题意：
 给一个字符串s，找出s中最长回文子串，可以假设s最长长度为1000
