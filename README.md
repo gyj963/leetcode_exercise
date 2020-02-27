@@ -2,8 +2,8 @@
 
 记录了做过LeetCode的题的题意、思路、AC代码
 
-题目总数：15
-Top 100 Liked Questions: 10/100
+题目总数：16
+Top 100 Liked Questions: 11/100
 
 <table>
 <tr>
