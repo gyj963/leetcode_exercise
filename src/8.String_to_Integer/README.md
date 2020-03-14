@@ -48,4 +48,4 @@ PS：32位数字最大值为2^31-1，最小值为-2^31
 <a href="https://leetcode.com/problems/string-to-integer-atoi/" target="_blank">点这里</a>
 
 ### 代码：
-<a href="./string_to_integer_atoi.cpp">点这里</a>
+<a href="./index.cpp">点这里</a>

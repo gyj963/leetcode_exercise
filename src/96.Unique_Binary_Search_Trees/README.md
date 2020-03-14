@@ -31,7 +31,7 @@ Given n = 3, there are a total of 5 unique BST's:
 <a href="https://leetcode.com/problems/unique-binary-search-trees/" target="_blank">点这里</a>
 
 ### 代码：
-<a href="./Unique_Binary_Search_Trees.js">点这里</a>
+<a href="./index.js">点这里</a>
 
 ### 思路:
 <a href="./tips.md">点这里</a>

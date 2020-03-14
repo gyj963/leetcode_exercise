@@ -23,4 +23,4 @@ true
 <a href="https://leetcode.com/problems/palindrome-number/" target="_blank">点这里</a>
 
 ### 代码：
-<a href="./palindrome_number.cpp">点这里</a>
+<a href="./index.cpp">点这里</a>

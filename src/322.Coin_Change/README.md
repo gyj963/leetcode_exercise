@@ -18,7 +18,7 @@ Output: -1
 <a href="https://leetcode.com/problems/coin-change/" target="_blank">点这里</a>
 
 ### 代码：
-<a href="./Coin_Change.js">点这里</a>
+<a href="./index.js">点这里</a>
 
 ### 思路:
 <a href="./tips.md">点这里</a>

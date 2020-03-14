@@ -16,7 +16,7 @@ Output: [0,1,1,2,1,2]
 <a href="https://leetcode.com/problems/counting-bits/" target="_blank">点这里</a>
 
 ### 代码：
-<a href="./Counting_Bits.js">点这里</a>
+<a href="./index.js">点这里</a>
 
 ### 思路:
 <a href="./tips.md">点这里</a>

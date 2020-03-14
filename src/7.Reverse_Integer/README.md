@@ -30,4 +30,4 @@ x = -123
 <a href="https://leetcode.com/problems/reverse-integer/" target="_blank">点这里</a>
 
 ### 代码：
-<a href="./reverse_integer.cpp">点这里</a>
+<a href="./index.cpp">点这里</a>

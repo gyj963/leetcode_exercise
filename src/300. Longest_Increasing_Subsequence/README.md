@@ -14,3 +14,12 @@ Explanation: The longest increasing subsequence is [2,3,7,101], therefore the le
 
 #### Follow up：
 能将它时间复杂度优化到O(nlogn)吗？
+
+###	题目：
+<a href="https://leetcode.com/problems/longest-increasing-subsequence/" target="_blank">点这里</a>
+
+### 代码：
+<a href="./index.js">点这里</a>
+
+### 思路:
+<a href="./tips.md">点这里</a>

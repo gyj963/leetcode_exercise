@@ -26,7 +26,7 @@ Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefor
 <a href="https://leetcode.com/problems/longest-consecutive-sequence/" target="_blank">点这里</a>
 
 ### 代码：
-<a href="./Longest_Consecutive_Sequence.js">点这里</a>
+<a href="./index.js">点这里</a>
 
 ### 思路:
 <a href="./tips.md">点这里</a>

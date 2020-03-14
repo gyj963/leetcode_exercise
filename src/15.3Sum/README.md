@@ -27,7 +27,7 @@ A solution set is:
 <a href="https://leetcode.com/problems/3sum/" target="_blank">点这里</a>
 
 ### 代码：
-<a href="./3Sum.js">点这里</a>
+<a href="./index.js">点这里</a>
 
 ### 思路:
 <a href="./tips.md">点这里</a>

@@ -20,4 +20,4 @@ Explanation: 342 + 465 = 807.
 <a href="https://leetcode.com/problems/add-two-numbers" target="_blank">点这里</a>
 
 ### 代码：
-<a href="./Add_Two_Numbers.js">点这里</a>
+<a href="./index.js">点这里</a>

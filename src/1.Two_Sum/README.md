@@ -18,4 +18,4 @@
 <a href="https://leetcode.com/problems/two-sum/" target="_blank">点这里</a>
 
 ### 代码：
-<a href="./Two_Sum.cpp">点这里</a>
+<a href="./index.cpp">点这里</a>
